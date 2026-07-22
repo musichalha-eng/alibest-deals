@@ -1,0 +1,6 @@
+{
+  "name": "AliBest Deals",
+  "description": "האתר המוביל להמלצות ודילים שווים מאליאקספרס עם סיווג קטגוריות אוטומטי מבוסס בינה מלאכותית",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
